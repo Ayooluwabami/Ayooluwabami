@@ -36,22 +36,16 @@ I am a passionate and organized backend software engineer with a focus on backen
 ## Technical Skills  
 - **Backend Development**:  
   - JavaScript, TypeScript, Node.js, NestJS, Express.js  
-  - ![Node.js](https://img.icons8.com/ios/50/000000/nodejs.png) ![Express](https://img.icons8.com/ios/50/000000/express.png)  
 - **Database Management**:  
-  - MongoDB, MySQL  
-  - ![MongoDB](https://img.icons8.com/ios/50/000000/mongodb.png) ![MySQL](https://img.icons8.com/ios/50/000000/mysql.png)  
+  - MongoDB, MySQL   
 - **API Development**:  
   - RESTful APIs, Postman, Swagger, OpenAPI  
-  - ![Postman](https://img.icons8.com/ios/50/000000/postman-api.png) ![Swagger](https://img.icons8.com/ios/50/000000/swagger.png)  
 - **Version Control**:  
-  - Git, GitHub, Bitbucket  
-  - ![GitHub](https://img.icons8.com/ios/50/000000/github.png)  
+  - Git, GitHub, Bitbucket   
 - **Testing**:  
   - Unit Testing, Integration Testing  
-  - ![Testing](https://img.icons8.com/ios/50/000000/test-tube.png)  
 - **Tools**:  
   - Heroku, Render, Vercel  
-  - ![Heroku](https://img.icons8.com/ios/50/000000/heroku.png) ![Vercel](https://img.icons8.com/ios/50/000000/vercel.png)  
 
 ---
 
