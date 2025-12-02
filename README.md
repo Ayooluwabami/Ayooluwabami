@@ -1,184 +1,138 @@
-👋 Hi, I'm Ayobami Esther Edun
+# 👋 Hi, I'm Ayobami Esther Edun
 
-Backend Engineer | Full-Stack Developer | Automotive Tech Enthusiast
-Dudley, West Midlands, UK
-📧 ayobamieae@gmail.com
- · 📞 +44 7867 027428
-🔗 GitHub: https://github.com/Ayooluwabami
+**Backend Engineer | Full-Stack Developer | Automotive Tech Enthusiast**  
+Dudley, West Midlands, UK  
+📧 [ayobamieae@gmail.com](mailto:ayobamieae@gmail.com) · 📞 +44 7867 027428  
 
-🔗 Portfolio: https://my-portfolio-iota-hazel.vercel.app
+🔗 [GitHub](https://github.com/Ayooluwabami) · [Portfolio](https://my-portfolio-iota-hazel.vercel.app) · [LinkedIn](https://www.linkedin.com/in/ayobami-ekundayo)
 
-🔗 LinkedIn: https://www.linkedin.com/in/ayobami-ekundayo
+---
 
-🚀 About Me
+### 🚀 About Me
 
-I am a results-driven Backend Engineer with strong experience in building scalable, high-performance systems using Node.js, TypeScript, NestJS, Express, Restana, PostgreSQL, MySQL, and MongoDB.
+Results-driven **Backend Engineer** with extensive experience designing and delivering scalable, high-performance systems using **Node.js, TypeScript, NestJS, Express**, and modern database technologies.
 
-I specialise in:
+I specialize in:
+- Clean, maintainable backend architecture
+- Secure, production-ready REST APIs & microservices
+- Payment gateway integrations (Paystack, Piggyvest, Stripe, Flutterwave)
+- Multi-tenant SaaS platforms and distributed systems
+- Performance optimization, CI/CD, caching, and cloud infrastructure
 
-Designing clean backend architecture
+I also build responsive frontends with **React, Vite, and Tailwind CSS**.
 
-Building secure, production-ready APIs
+Passionate about solving real-world problems — particularly in **automotive technology**, where I combine software expertise with hands-on diagnostics and mechanical experience.
 
-Payment gateway integrations (Paystack, Piggyvest, Stripe, Flutterwave)
+---
 
-Multi-tenant systems, microservices, and distributed systems
+### 🧠 Core Technical Skills
 
-CI/CD, caching, cloud infrastructure, and system optimisation
+#### Backend & API Development
+- JavaScript · TypeScript
+- Node.js · NestJS · Express.js · Restana
+- MVC · Microservices · Multi-tenant Architecture
+- REST API Design · OpenAPI · Swagger
 
-Beyond backend development, I also build frontends using React, Vite, Tailwind CSS, and modern component libraries.
+#### Frontend Development
+- React · Vite · Tailwind CSS
 
-I’m passionate about solving real-world problems—particularly within automotive technology, where I also have hands-on diagnostics and mechanical experience.
+#### Databases & Caching
+- PostgreSQL · MySQL · MongoDB · Redis
 
-🧠 Core Technical Skills
-Backend & API Development
+#### DevOps & Tooling
+- Git & GitHub · GitHub Actions
+- Docker (working knowledge) · Bash/CLI
+- Vercel · Render · Heroku · Google Cloud Storage
 
-JavaScript, TypeScript
+#### Security & Payments
+- JWT · OAuth2 · bcryptjs
+- Secure coding practices
+- Paystack · Piggyvest Business · Stripe · Flutterwave
 
-Node.js, Restana, Express.js, NestJS
+#### Testing
+- Jest · Supertest · Unit & Integration Testing
 
-MVC, Microservices, Multi-tenant Architecture
+#### Soft Skills
+- Leadership & Team Collaboration
+- Problem-Solving & Critical Thinking
+- Clear Communication
+- Agile Methodologies
+- Attention to Detail
 
-REST API Design, OpenAPI, Swagger
+---
 
-Frontend Development
+### 🏗️ Professional Experience
 
-React
+**Lead Backend Developer** — Ebidhaa Services  
+*2025 – Present*
+- Built the entire backend for a car hire & documentation platform (web + mobile)
+- Integrated Paystack & Piggyvest with 99.9% transaction success rate
+- Implemented automated file uploads via Google Cloud Storage
+- Reduced database query times by 20% through optimization and secure hashing
 
-Vite
+**Lead Backend Developer** — AI4AI / SchoolHub Nigeria  
+*2025*
+- Architected a multi-tenant EdTech SaaS platform serving 50+ schools
+- Designed RBAC, secure authentication, and Redis caching layers
+- Improved scalability by 30% and reduced API response times by 25%
 
-Tailwind CSS
+**Support Staff (Automotive Diagnostics)** — Auto Clinic  
+*2021 – 2024*
+- Diagnosed 25+ vehicles weekly
+- Trained 50+ teenagers in automotive diagnostics
+- Contributed weekly automotive tech radio segments
 
-Databases & Caching
+---
 
-PostgreSQL
+### 🛠️ Featured Projects
 
-MySQL
+**🚗 Drivewell** — Vehicle Hire, Parts, Towing & Documentation Platform  
+Full backend + microservices system with dynamic pricing, payment flows, Google Cloud Storage integration, admin dashboards, and mobile-ready APIs.
 
-MongoDB
+**🎓 SchoolHub Nigeria** — Multi-Tenant EdTech SaaS  
+Modular NestJS architecture, database-per-tenant strategy, Redis caching, role-based access control, and scalable cloud deployments.
 
-Redis
+**💸 Digital Wallet + Escrow API**  
+Complete transaction ledger with double-entry accounting, wallet funding, transfers, dispute resolution, and KYC (MetaMap integration).
 
-DevOps & Tooling
+*(Repository links available upon request or on my GitHub)*
 
-Git, GitHub, GitHub Actions
+---
 
-Bash/CLI
+### 🏅 Certifications
 
-Docker (exposure)
+- Cisco Networking Academy – Introduction to Cybersecurity (2025)
+- Cisco & JS Institute – JavaScript Essentials (2024)
+- AltSchool Africa – Diploma in Backend Engineering (2024)
+- Auto Clinic Academy – Diploma in Automotive Technology (Distinction, 2024)
+- NABTEB – Technical Modular Trade Certification (Distinction, 2022)
 
-Vercel, Render, Heroku
+---
 
-Google Cloud Storage
+### 🤝 Leadership & Community
 
-Security
+- Acting Assistant Head (Technical, Media & Choir) – Global Harvest Teens Church
+- Volunteer Researcher – REES Africa
+- Assistant General Secretary – NCCF
+- Vice President – NIFES
 
-JWT, OAuth2
+Mentored 50+ teenagers and led multiple youth development and community programs.
 
-bcryptjs
+---
 
-Secure coding best practices
+### 🌱 Currently Exploring
 
-Payment Integrations: Paystack, Piggyvest Business, Stripe, Flutterwave
+- Advanced software architecture & distributed systems
+- Cloud-native applications and serverless patterns
+- Automotive software systems (OBD-II, IoT telematics, vehicle data platforms)
 
-Testing
+---
 
-Unit & Integration Testing
+### 📬 Let’s Connect!
 
-Jest, Supertest
+I’m actively open to **Backend Engineering**, **Full-Stack**, or **Automotive Tech** roles, collaborations, and impactful projects.
 
-🧩 Soft Skills
+📧 [ayobamieae@gmail.com](mailto:ayobamieae@gmail.com)  
+🔗 [linkedin.com/in/ayobami-ekundayo](https://www.linkedin.com/in/ayobami-ekundayo)
 
-Leadership & Team Collaboration
-
-Problem-Solving & Critical Thinking
-
-Clear Communication
-
-Time & Task Management
-
-Agile Workflow Adaptability
-
-Attention to Detail
-
-🏗️ Highlighted Experience
-Lead Backend Developer – Ebidhaa Services (2025 – Present)
-
-Built the core backend powering a car hire & documentation platform (web + mobile).
-
-Integrated Paystack & Piggyvest APIs with 99.9% transaction accuracy.
-
-Implemented Google Cloud Storage for automated file uploads.
-
-Reduced database lookup load time by 20% using query optimisation & secure hashing.
-
-Lead Backend Developer – AI4AI / SchoolHub Nigeria (2025)
-
-Architected the backend for a multi-tenant SaaS platform used by 50+ schools.
-
-Implemented RBAC, secure authentication, and Redis caching.
-
-Improved performance scalability by 30% and response times by 25%.
-
-Support Staff – Auto Clinic (2021–2024)
-
-Conducted diagnostics for 25+ vehicles weekly.
-
-Facilitated training for 50+ teenagers on automotive diagnostics.
-
-Contributed weekly automotive tech articles for a radio segment.
-
-🛠️ Featured Projects
-🚗 Drivewell – Vehicle Hire, Parts, Towing & Documentation System
-
-Backend + microservices with dynamic pricing, Google Cloud uploads, payment flows, admin dashboards, and mobile APIs.
-
-🎓 SchoolHub Nigeria – EdTech SaaS (Multi-Tenant)
-
-Modular NestJS architecture, multi-database tenancy, Redis caching, RBAC, and scalable deployments.
-
-💸 Digital Wallet + Escrow API
-
-Transaction ledger, double-entry accounting model, wallet funding, transfers, disputes, and KYC workflows using MetaMap.
-
-(Add repo links as you prefer.)
-
-🏅 Certifications
-
-Cisco Networking Academy – Introduction to Cybersecurity (2025)
-
-Cisco & JS Institute – JavaScript Essentials (2024)
-
-AltSchool Africa – Diploma in Backend Engineering (2024)
-
-Auto Clinic Academy – Diploma in Automotive Technology (Distinction) (2024)
-
-NABTEB – Technical Modular Trade Certification (Distinction) (2022)
-
-🤝 Leadership & Community
-
-Acting Assistant Head (Technical, Media & Choir) – Global Harvest Teens Church
-
-Volunteer Researcher – REES Africa
-
-Assistant General Secretary – NCCF
-
-Vice President – NIFES
-
-I’ve mentored over 50 teenagers, delivered community programmes, and supported youth development initiatives.
-
-🌱 What I'm Currently Exploring
-
-Advanced software architecture & distributed systems
-
-Cloud-native deployments
-
-Automotive software systems (OBD-II data, IoT telematics)
-
-📬 Let’s Connect
-
-I’m open to backend engineering roles, software engineering opportunities, collaborations, and impactful projects.
-
-📧 Email: ayobamieae@gmail.com
-
-🔗 LinkedIn: linkedin.com/in/ayobami-ekundayo
+Looking forward to building the future together!
