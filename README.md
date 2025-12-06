@@ -1,138 +1,130 @@
 # 👋 Hi, I'm Ayobami Esther Edun
 
-**Backend Engineer | Full-Stack Developer | Automotive Tech Enthusiast**  
-Dudley, West Midlands, UK  
+**Backend Engineer | Node.js & TypeScript Specialist | Scalable Systems & Automotive Tech**  
+Dudley, West Midlands, United Kingdom  
 📧 [ayobamieae@gmail.com](mailto:ayobamieae@gmail.com) · 📞 +44 7867 027428  
 
-🔗 [GitHub](https://github.com/Ayooluwabami) · [Portfolio](https://my-portfolio-iota-hazel.vercel.app) · [LinkedIn](https://www.linkedin.com/in/ayobami-ekundayo)
+[GitHub](https://github.com/Ayooluwabami) | [Portfolio](https://my-portfolio-iota-hazel.vercel.app) | [LinkedIn](https://www.linkedin.com/in/ayobami-ekundayo)
 
 ---
 
-### 🚀 About Me
+### 🚀 Professional Summary
 
-Results-driven **Backend Engineer** with extensive experience designing and delivering scalable, high-performance systems using **Node.js, TypeScript, NestJS, Express**, and modern database technologies.
+Results-driven **Backend Engineer** with proven experience delivering production-grade, scalable systems using **Node.js, TypeScript, NestJS, Restana, and microservices architecture**.
 
-I specialize in:
-- Clean, maintainable backend architecture
-- Secure, production-ready REST APIs & microservices
-- Payment gateway integrations (Paystack, Piggyvest, Stripe, Flutterwave)
-- Multi-tenant SaaS platforms and distributed systems
-- Performance optimization, CI/CD, caching, and cloud infrastructure
-
-I also build responsive frontends with **React, Vite, and Tailwind CSS**.
-
-Passionate about solving real-world problems — particularly in **automotive technology**, where I combine software expertise with hands-on diagnostics and mechanical experience.
+Specialised in building secure multi-tenant SaaS platforms, high-performance APIs, payment integrations, and cloud infrastructure. Passionate about automotive technology — combining deep software engineering expertise with real-world vehicle diagnostics and mechanical experience.
 
 ---
 
 ### 🧠 Core Technical Skills
 
-#### Backend & API Development
-- JavaScript · TypeScript
-- Node.js · NestJS · Express.js · Restana
-- MVC · Microservices · Multi-tenant Architecture
-- REST API Design · OpenAPI · Swagger
+**Backend & Architecture**  
+Node.js • TypeScript • NestJS • Express.js • Restana • Microservices • Event-Driven Systems • Queues • Cron Jobs • REST API Design • OpenAPI/Swagger • RBAC
 
-#### Frontend Development
-- React · Vite · Tailwind CSS
+**Databases & Performance**  
+PostgreSQL • MySQL • MongoDB • Prisma ORM • Redis (caching, rate limiting, sessions)
 
-#### Databases & Caching
-- PostgreSQL · MySQL · MongoDB · Redis
+**Security & Authentication**  
+JWT (access/refresh) • OAuth2 • bcrypt/argon2 • Rate Limiting • Secure Headers • API Keys
 
-#### DevOps & Tooling
-- Git & GitHub · GitHub Actions
-- Docker (working knowledge) · Bash/CLI
-- Vercel · Render · Heroku · Google Cloud Storage
+**Payments & Third-Party Integrations**  
+Paystack • Piggyvest • Stripe • Flutterwave • MetaMap (KYC) • Termii • WhatsApp Cloud API • Firebase • Google Maps API
 
-#### Security & Payments
-- JWT · OAuth2 · bcryptjs
-- Secure coding practices
-- Paystack · Piggyvest Business · Stripe · Flutterwave
+**DevOps & Infrastructure**  
+GitHub Actions (CI/CD) • Docker • Railway • Render • Vercel • Google Cloud Platform • Google Cloud Storage • DNS Management (SPF/DKIM/DMARC/MTA-STS) • Google Workspace Admin
 
-#### Testing
-- Jest · Supertest · Unit & Integration Testing
+**Testing**  
+Jest • Supertest • Unit & Integration Testing
 
-#### Soft Skills
-- Leadership & Team Collaboration
-- Problem-Solving & Critical Thinking
-- Clear Communication
-- Agile Methodologies
-- Attention to Detail
+**Soft Skills**  
+Leadership • Agile Delivery • Stakeholder Communication • Problem Solving • Technical Documentation
 
 ---
 
 ### 🏗️ Professional Experience
 
-**Lead Backend Developer** — Ebidhaa Services  
-*2025 – Present*
-- Built the entire backend for a car hire & documentation platform (web + mobile)
-- Integrated Paystack & Piggyvest with 99.9% transaction success rate
-- Implemented automated file uploads via Google Cloud Storage
-- Reduced database query times by 20% through optimization and secure hashing
+**Lead Backend Developer** — Ebidhaa Services (Drivewell)  
+*2025 – Present | Remote*  
+Tech: Node.js, Restana, TypeScript, MySQL, Redis, Docker, GCP, Paystack, Piggyvest
 
-**Lead Backend Developer** — AI4AI / SchoolHub Nigeria  
-*2025*
-- Architected a multi-tenant EdTech SaaS platform serving 50+ schools
-- Designed RBAC, secure authentication, and Redis caching layers
-- Improved scalability by 30% and reduced API response times by 25%
+- Designed and built full backend ecosystem for a nationwide vehicle hire, towing, and documentation platform
+- Implemented multi-service architecture with secure JWT + RBAC, Redis caching, and encrypted sessions
+- Automated CI/CD pipeline with GitHub Actions → Docker Buildx → Google Compute Engine (90% faster releases)
+- Integrated payments, KYC, WhatsApp/SMS notifications, Google Maps, and CRM workflows
+- Centralised logging (Papertrail) and robust env validation (40+ variables)
 
-**Support Staff (Automotive Diagnostics)** — Auto Clinic  
+**Lead Backend Developer** — AI4AI (SchoolHub Nigeria)  
+*2025 | Remote*  
+Tech: NestJS, PostgreSQL, Prisma, Redis, Docker, Railway, JWT, Swagger, Jest
+
+- Architected multi-tenant EdTech SaaS currently serving 50+ schools
+- Built tenant isolation, RBAC, audit trails, refresh token rotation, and Redis-powered caching
+- Optimised queries and implemented throttling — reducing response times by ~25%
+- Fully containerised deployment with automated migrations and health checks
+
+**Automotive Diagnostics & Trainer** — Auto Clinic  
 *2021 – 2024*
-- Diagnosed 25+ vehicles weekly
-- Trained 50+ teenagers in automotive diagnostics
-- Contributed weekly automotive tech radio segments
+
+- Diagnosed and repaired 25+ vehicles weekly
+- Trained 50+ teenagers in modern automotive diagnostics
+- Delivered weekly automotive technology radio segments on Splash FM
 
 ---
 
 ### 🛠️ Featured Projects
 
-**🚗 Drivewell** — Vehicle Hire, Parts, Towing & Documentation Platform  
-Full backend + microservices system with dynamic pricing, payment flows, Google Cloud Storage integration, admin dashboards, and mobile-ready APIs.
+**Drivewell** — Full-Stack Vehicle Hire & Towing Platform  
+Multi-microservice backend with dynamic pricing, wallet system, towing dispatch, payment processing, KYC, and admin CRM. Deployed on GCP with Docker + CI/CD.
 
-**🎓 SchoolHub Nigeria** — Multi-Tenant EdTech SaaS  
-Modular NestJS architecture, database-per-tenant strategy, Redis caching, role-based access control, and scalable cloud deployments.
+**SchoolHub Nigeria** — Multi-Tenant EdTech SaaS  
+Secure, scalable NestJS backend with tenant provisioning, RBAC, audit logging, email automation, and Redis caching. Live with 50+ schools.
 
-**💸 Digital Wallet + Escrow API**  
-Complete transaction ledger with double-entry accounting, wallet funding, transfers, dispute resolution, and KYC (MetaMap integration).
+**Digital Wallet & Escrow System**  
+Production-grade wallet with double-entry ledger, webhook verification, dispute resolution, and multi-gateway support (Paystack, Flutterwave).
 
-*(Repository links available upon request or on my GitHub)*
+**JOTEM Agro Allied** — Company Website + Email Infrastructure  
+React + Vite + Tailwind frontend secure Google Workspace setup with full DNS security (SPF, DKIM, DMARC, MTA-STS).
+
+*(Public repositories available on GitHub – private production repos available on request)*
 
 ---
 
-### 🏅 Certifications
+### Certifications
 
-- Cisco Networking Academy – Introduction to Cybersecurity (2025)
-- Cisco & JS Institute – JavaScript Essentials (2024)
-- AltSchool Africa – Diploma in Backend Engineering (2024)
-- Auto Clinic Academy – Diploma in Automotive Technology (Distinction, 2024)
-- NABTEB – Technical Modular Trade Certification (Distinction, 2022)
+- Introduction to Cybersecurity — Cisco Networking Academy (2025)
+- JavaScript Essentials — Cisco & JS Institute (2024)
+- Diploma in Backend Engineering — AltSchool Africa (2024)
+- Diploma in Automotive Technology (Distinction) — Auto Clinic Academy (2024)
+- NABTEB Modular Trade Certificate (Distinction) — 2022
 
 ---
 
 ### 🤝 Leadership & Community
 
-- Acting Assistant Head (Technical, Media & Choir) – Global Harvest Teens Church
-- Volunteer Researcher – REES Africa
-- Assistant General Secretary – NCCF
-- Vice President – NIFES
+- Acting Assistant Head (Technical & Media) — Global Harvest Teens Church
+- Volunteer Researcher & Project Lead — REES Africa
+- Assistant General Secretary — NCCF
+- Vice President — NIFES
 
-Mentored 50+ teenagers and led multiple youth development and community programs.
-
----
-
-### 🌱 Currently Exploring
-
-- Advanced software architecture & distributed systems
-- Cloud-native applications and serverless patterns
-- Automotive software systems (OBD-II, IoT telematics, vehicle data platforms)
+Mentored 50+ young people and led technical, educational, and sustainability initiatives.
 
 ---
 
-### 📬 Let’s Connect!
+### Currently Exploring
 
-I’m actively open to **Backend Engineering**, **Full-Stack**, or **Automotive Tech** roles, collaborations, and impactful projects.
+- Advanced distributed systems & domain-driven design
+- Cloud-native architectures (Kubernetes, serverless, GCP)
+- Automotive IoT, OBD-II data pipelines, and telematics platforms
 
-📧 [ayobamieae@gmail.com](mailto:ayobamieae@gmail.com)  
-🔗 [linkedin.com/in/ayobami-ekundayo](https://www.linkedin.com/in/ayobami-ekundayo)
+---
 
-Looking forward to building the future together!
+### Let’s Connect!
+
+I’m actively seeking **Backend, Full-Stack, Cloud/DevOps, or Automotive Software Engineering** roles in the UK (remote, hybrid, or relocation-supported).
+
+Feel free to reach out for opportunities, collaborations, or just a chat about scalable systems or cars!
+
+[ayobamieae@gmail.com](mailto:ayobamieae@gmail.com)  
+[linkedin.com/in/ayobami-ekundayo](https://www.linkedin.com/in/ayobami-ekundayo)
+
+Looking forward to building impactful software together!
