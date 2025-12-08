@@ -1,125 +1,179 @@
-# 👋 Hi, I'm Ayobami Esther Edun  
-**Backend Engineer | Node.js & TypeScript Specialist | Scalable Systems & Automotive Tech**  
-Dudley, West Midlands, United Kingdom  
+<!-- ======================= PROFILE BANNER ======================= -->
+<p align="center">
+  <img src="https://github.com/Ayooluwabami/banner.png" alt="Ayobami Esther Edun – Backend Engineer" width="100%" />
+</p>
 
-📧 [ayobamieae@gmail.com](mailto:ayobamieae@gmail.com) · 📞 +44 7867 027428  
-[GitHub](https://github.com/Ayooluwabami)  
-[Portfolio](https://my-portfolio-iota-hazel.vercel.app)  
-[New Portfolio](https://portfolio-web-virid-gamma.vercel.app/)  
-[LinkedIn](https://www.linkedin.com/in/ayobami-ekundayo)
+<h1 align="center">👋 Hi, I'm <strong>Ayobami Esther Edun</strong></h1>
+<p align="center">
+  <strong>Backend Engineer | Node.js & TypeScript Specialist | Scalable Systems | Automotive Tech</strong><br/>
+  Dudley, West Midlands, United Kingdom
+</p>
 
----
-
-### 🚀 Professional Summary  
-Results-driven **Backend Engineer** with proven experience delivering production-grade, scalable systems using **Node.js, TypeScript, NestJS, Restana, and microservices architecture**.  
-
-Specialised in building secure multi-tenant SaaS platforms, high-performance APIs, payment integrations, and cloud infrastructure. Passionate about automotive technology — combining deep software engineering expertise with real-world vehicle diagnostics and mechanical experience.
-
----
-
-### 🧠 Core Technical Skills  
-
-#### 🛠️ Backend & Architecture  
-Node.js • TypeScript • NestJS • Express.js • Restana • Microservices • Event-Driven Systems • Queues • Cron Jobs • REST API Design • OpenAPI/Swagger • RBAC  
-
-#### 🗄️ Databases & Performance  
-PostgreSQL • MySQL • MongoDB • Prisma ORM • Redis (caching, rate limiting, sessions)
-
-#### 🔐 Security & Authentication  
-JWT (access/refresh) • OAuth2 • bcrypt/argon2 • Rate Limiting • Secure Headers • API Keys  
-
-#### 💳 Payments & Third-Party Integrations  
-Paystack • Piggyvest • Stripe • Flutterwave • MetaMap (KYC) • Termii • WhatsApp Cloud API • Firebase • Google Maps API  
-
-#### 🛠️ DevOps & Infrastructure  
-GitHub Actions (CI/CD) • Docker • Railway • Render • Vercel • Google Cloud Platform • Google Cloud Storage • DNS Management (SPF/DKIM/DMARC/MTA-STS) • Google Workspace Admin  
-
-#### 🧪 Testing  
-Jest • Supertest • Unit & Integration Testing  
-
-#### 🤝 Soft Skills  
-Leadership • Agile Delivery • Stakeholder Communication • Problem Solving • Technical Documentation  
+<p align="center">
+  📧 <a href="mailto:ayobamieae@gmail.com">ayobamieae@gmail.com</a> • 📞 +44 7867 027428<br/>
+  <a href="https://github.com/Ayooluwabami">GitHub</a> •
+  <a href="https://my-portfolio-iota-hazel.vercel.app">Portfolio</a> •
+  <a href="https://portfolio-web-virid-gamma.vercel.app/">New Portfolio</a> •
+  <a href="https://www.linkedin.com/in/ayobami-ekundayo">LinkedIn</a>
+</p>
 
 ---
 
-### 🏗️ Professional Experience  
+# 🛠️ Tech Stack & Tools
 
-**Lead Backend Developer** — *Ebidhaa Services (Drivewell)*  
+## 🧰 Languages & Frameworks  
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Restana-0A1A2F?logo=fastify&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TailwindCSS-0EA5E9?logo=tailwindcss&logoColor=white" />
+</p>
+
+## 🗄️ Databases  
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
+</p>
+
+## 🔐 Authentication & Security  
+<p>
+  <img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/OAuth2-3E7FC1?logo=auth0&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bcrypt-35495E?logo=security&logoColor=white" />
+</p>
+
+## 🚀 DevOps / Cloud  
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Railway-051922?logo=railway&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-000000?logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" />
+</p>
+
+## 📡 Integrations  
+<p>
+  <img src="https://img.shields.io/badge/Paystack-3BB75E?logo=paystack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-626CD9?logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutterwave-FFCC00?logo=flutterwave&logoColor=black" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/MetaMap-0A66C2?logo=vercel&logoColor=white" />
+</p>
+
+---
+
+# 🚀 Professional Summary  
+Results-oriented **Backend Engineer** with proven expertise delivering production-ready, scalable backend systems using **Node.js, TypeScript, NestJS, Restana**, and **microservices architecture**.
+
+Experienced in:
+
+✔️ Multi-tenant SaaS  
+✔️ High-performance APIs  
+✔️ Payment systems  
+✔️ Distributed systems  
+✔️ GCP deployments  
+✔️ Redis caching, queues & jobs  
+
+Passionate about **automotive technology**, combining software engineering with real-world vehicle diagnostics experience.
+
+---
+
+# 🏢 Professional Experience  
+
+## 💼 Lead Backend Developer — Ebidhaa Services (Drivewell)  
 *2025 – Present | Remote*  
-Tech: Node.js, Restana, TypeScript, MySQL, Redis, Docker, GCP, Paystack, Piggyvest  
-- Designed and built full backend ecosystem for a nationwide vehicle hire, towing, and documentation platform  
-- Implemented multi-service architecture with secure JWT + RBAC, Redis caching, and encrypted sessions  
-- Automated CI/CD pipeline with GitHub Actions → Docker Buildx → Google Compute Engine (90% faster releases)  
-- Integrated payments, KYC, WhatsApp/SMS notifications, Google Maps, and CRM workflows  
-- Centralised logging (Papertrail) and robust environment validation (40+ variables)  
+Tech: Node.js, Restana, MySQL, Redis, Docker, GitHub Actions, GCP  
+- Designed and built full backend ecosystem for nationwide vehicle hire/towing/document services  
+- Implemented multi-service architecture (auth, pricing, towing, wallet, CRM APIs)  
+- Automated CI/CD → Docker Buildx → Google Compute Engine (**90% faster releases**)  
+- Integrated payments, KYC, WhatsApp, SMS, Maps, and CRM workflows  
+- Centralised logging & robust env validation (40+ variables)
 
 ---
 
-**Lead Backend Developer** — *AI4AI (SchoolHub Nigeria)*  
+## 💼 Lead Backend Developer — AI4AI (SchoolHub Nigeria)  
 *2025 | Remote*  
-Tech: NestJS, PostgreSQL, Prisma, Redis, Docker, Railway, JWT, Swagger, Jest  
+Tech: NestJS, PostgreSQL, Prisma, Redis, Docker, Railway  
 - Architected multi-tenant EdTech SaaS serving 50+ schools  
-- Built tenant isolation, RBAC, audit trails, refresh token rotation, and Redis-powered caching  
-- Optimised queries and implemented throttling — reducing response times by ~25%  
-- Fully containerised deployment with automated migrations and health checks  
+- Implemented RBAC, audit trails, refresh token rotation  
+- Redis-powered caching and throttling → **25% faster API response times**  
+- Fully containerised with automated migrations + health checks  
 
 ---
 
-**Automotive Diagnostics & Trainer** — *Auto Clinic*  
+## 🔧 Automotive Diagnostics & Trainer — Auto Clinic  
 *2021 – 2024*  
-- Diagnosed and repaired 25+ vehicles weekly  
+- Diagnosed 25+ vehicles weekly  
 - Trained 50+ teenagers in modern automotive diagnostics  
-- Delivered weekly automotive technology radio segments on Splash FM  
+- Delivered weekly radio segments on automotive technology  
 
 ---
 
-### 🛠️ Featured Projects  
+# 🛠️ Featured Projects  
 
-**Drivewell** — Vehicle Hire & Towing Platform  
-Multi-microservice backend with dynamic pricing, wallet system, towing dispatch, payment processing, KYC, and admin CRM. Deployed on GCP with Docker + CI/CD.  
+### 🚗 Drivewell – Vehicle Hire, Towing & Documentation Platform  
+Dynamic pricing • Wallet system • KYC • Dispatch engine • Admin CRM • Microservices • CI/CD on GCP  
 
-**SchoolHub Nigeria** — Multi-Tenant EdTech SaaS  
-Secure, scalable NestJS backend with tenant provisioning, RBAC, audit logging, email automation, and Redis caching. Live with 50+ schools.  
+### 🎓 SchoolHub Nigeria – Multi-Tenant SaaS  
+Tenant provisioning • RBAC • Audit logging • Email automation • Redis caching  
 
-**Digital Wallet & Escrow System**  
-Production-grade wallet with double-entry ledger, webhook verification, dispute resolution, and multi-gateway support (Paystack, Flutterwave).  
+### 💳 Digital Wallet & Escrow System  
+Double-entry ledger • Webhook verification • Dispute workflow • Multi-gateway support  
 
-**JOTEM Agro Allied** — Website + Email Infrastructure  
-React + Vite + Tailwind frontend with Google Workspace setup and DNS security (SPF, DKIM, DMARC, MTA-STS).  
-
-*Public repositories available on GitHub – private production repos available on request.*
+### 🌾 JOTEM Agro Allied  
+Website + Workspace setup • DNS (SPF/DKIM/DMARC/MTA-STS)  
 
 ---
 
-### 🎓 Certifications  
-- Introduction to Cybersecurity — Cisco Networking Academy (2025)  
-- JavaScript Essentials — Cisco & JS Institute (2024)  
-- Diploma in Backend Engineering — AltSchool Africa (2024)  
-- Diploma in Automotive Technology (Distinction) — Auto Clinic Academy (2024)  
-- NABTEB Modular Trade Certificate (Distinction) — 2022  
+# 🎓 Certifications  
+- Cisco — Introduction to Cybersecurity (2025)  
+- Cisco & JS Institute — JavaScript Essentials (2024)  
+- AltSchool Africa — Backend Engineering Diploma (2024)  
+- Auto Clinic Academy — Automotive Technology (Distinction)  
+- NABTEB Modular Trade Certificate (Distinction)  
 
 ---
 
-### 🤝 Leadership & Community  
-- Acting Assistant Head (Technical & Media) — Global Harvest Teens Church  
+# 👥 Leadership & Community  
+- Assistant Head (Technical & Media) — Global Harvest Teens Church  
 - Volunteer Researcher & Project Lead — REES Africa  
 - Assistant General Secretary — NCCF  
 - Vice President — NIFES  
-Mentored 50+ young people and led technical, educational, and sustainability initiatives.  
+👉 Mentored **50+ young people** across technical & leadership programs  
 
 ---
 
-### 🔍 Currently Exploring  
-- Distributed systems & domain-driven design  
+# 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayooluwabami&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayooluwabami&layout=compact&theme=tokyonight" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ayooluwabami&theme=tokyonight" height="180" />
+</p>
+
+---
+
+# 🔍 Currently Exploring  
+- Distributed systems (CQRS, event sourcing, DDD)  
 - Cloud-native architectures (Kubernetes, serverless, GCP)  
 - Automotive IoT, OBD-II pipelines, telematics platforms  
 
 ---
 
-### 📬 Let’s Connect!  
-I’m actively seeking **Backend, Full-Stack, Cloud/DevOps, or Automotive Software Engineering** roles in the UK (remote, hybrid, or relocation-supported).  
+# 🤝 Let’s Connect!  
+I’m actively seeking **Backend, Full-Stack, Cloud/DevOps, or Automotive Software Engineering** roles in the UK (remote, hybrid, or relocation-supported).
 
-📧 [ayobamieae@gmail.com](mailto:ayobamieae@gmail.com)  
-🔗 [linkedin.com/in/ayobami-ekundayo](https://www.linkedin.com/in/ayobami-ekundayo)
+📧 **ayobamieae@gmail.com**  
+🔗 **linkedin.com/in/ayobami-ekundayo**
 
-Looking forward to building impactful software together!
+<p align="center"><strong>🚀 Building high-impact software that powers real-world systems.</strong></p>
