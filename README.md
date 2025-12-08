@@ -2,9 +2,9 @@
 
 **Backend Engineer | Node.js & TypeScript Specialist | Scalable Systems & Automotive Tech**  
 Dudley, West Midlands, United Kingdom  
-ayobamieae@gmail.com · +44 7867 027428  
+ayobamieae@gmail.com · 📞 +44 7867 027428  
 
-[GitHub](https://github.com/Ayooluwabami) | [Portfolio](https://portfolio-web-virid-gamma.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/ayobami-ekundayo)
+[GitHub](https://github.com/Ayooluwabami) | [Website](https://portfolio-web-virid-gamma.vercel.app/) | [Portfolio](https://my-portfolio-iota-hazel.vercel.app) | [LinkedIn](https://www.linkedin.com/in/ayobami-ekundayo)
 
 ---
 
@@ -85,7 +85,7 @@ Production-grade wallet with double-entry ledger, webhook verification, dispute 
 **JOTEM Agro Allied** — Company Website + Email Infrastructure  
 React + Vite + Tailwind frontend + secure Google Workspace setup with full DNS security (SPF, DKIM, DMARC, MTA-STS).
 
-*(Public repositories available on GitHub – private production repos available on request)*
+*(Public repositories on GitHub – private production repos available on request)*
 
 ---
 
@@ -122,10 +122,9 @@ Mentored 50+ young people and led technical, educational, and sustainability ini
 
 I’m actively seeking **Backend, Full-Stack, Cloud/DevOps, or Automotive Software Engineering** roles in the UK (remote, hybrid, or relocation-supported).
 
-Feel free to reach out for opportunities, collaborations, or just a chat about scalable systems or cars!
+Feel free to reach out for opportunities, collaborations, or a chat about building scalable systems — or cars!
 
 [ayobamieae@gmail.com](mailto:ayobamieae@gmail.com)  
-[linkedin.com/in/ayobami-ekundayo](https://www.linkedin.com/in/ayobami-ekundayo)  
-[portfolio-web-virid-gamma.vercel.app](https://portfolio-web-virid-gamma.vercel.app/)
+[linkedin.com/in/ayobami-ekundayo](https://www.linkedin.com/in/ayobami-ekundayo)
 
 Looking forward to building impactful software together!
