@@ -7,8 +7,7 @@
 <p align="center">
   📧 <a href="mailto:ayobamieae@gmail.com">ayobamieae@gmail.com</a> • 📞 +44 7867 027428<br/>
   <a href="https://github.com/Ayooluwabami">GitHub</a> •
-  <a href="https://my-portfolio-iota-hazel.vercel.app">Portfolio</a> •
-  <a href="https://portfolio-web-virid-gamma.vercel.app/">New Portfolio</a> •
+  <a href="https://portfolio-web-virid-gamma.vercel.app/">Portfolio</a> •
   <a href="https://www.linkedin.com/in/ayobami-ekundayo">LinkedIn</a>
 </p>
 
