@@ -4,22 +4,22 @@
 Dudley, West Midlands, United Kingdom  
 ayobamieae@gmail.com · +44 7867 027428  
 
-[GitHub](https://github.com/Ayooluwabami) | [Website / Portfolio](https://portfolio-web-virid-gamma.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/ayobami-ekundayo)
+[GitHub](https://github.com/Ayooluwabami) | [Portfolio](https://portfolio-web-virid-gamma.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/ayobami-ekundayo)
 
 ---
 
 ### Professional Summary
 
-Results-driven **Backend Engineer** with proven experience delivering production-grade, scalable systems using **Node.js, TypeScript, NestJS, Restana,** and **microservices architecture**.
+Results-driven **Backend Engineer** with proven experience delivering production-grade, scalable systems using **Node.js, TypeScript, NestJS, Restana, and microservices architecture**.
 
-I specialize in secure multi-tenant SaaS platforms, high-performance APIs, payment gateway integrations, and cloud infrastructure. Passionate about automotive technology — blending deep software engineering skills with hands-on vehicle diagnostics and mechanical expertise.
+Specialised in building secure multi-tenant SaaS platforms, high-performance APIs, payment integrations, and cloud infrastructure. Passionate about automotive technology — combining deep software engineering expertise with real-world vehicle diagnostics and mechanical experience.
 
 ---
 
 ### Core Technical Skills
 
 **Backend & Architecture**  
-Node.js • TypeScript • NestJS • Express.js • Restana • Microservices • Event-Driven Systems • Queues • Cron Jobs • REST • OpenAPI/Swagger • RBAC
+Node.js • TypeScript • NestJS • Express.js • Restana • Microservices • Event-Driven Systems • Queues • Cron Jobs • REST API Design • OpenAPI/Swagger • RBAC
 
 **Databases & Performance**  
 PostgreSQL • MySQL • MongoDB • Prisma ORM • Redis (caching, rate limiting, sessions)
@@ -27,11 +27,11 @@ PostgreSQL • MySQL • MongoDB • Prisma ORM • Redis (caching, rate limitin
 **Security & Authentication**  
 JWT (access/refresh) • OAuth2 • bcrypt/argon2 • Rate Limiting • Secure Headers • API Keys
 
-**Payments & Integrations**  
+**Payments & Third-Party Integrations**  
 Paystack • Piggyvest • Stripe • Flutterwave • MetaMap (KYC) • Termii • WhatsApp Cloud API • Firebase • Google Maps API
 
 **DevOps & Infrastructure**  
-GitHub Actions (CI/CD) • Docker • Railway • Render • Vercel • Google Cloud Platform • Google Cloud Storage • DNS (SPF/DKIM/DMARC/MTA-STS) • Google Workspace Admin
+GitHub Actions (CI/CD) • Docker • Railway • Render • Vercel • Google Cloud Platform • Google Cloud Storage • DNS Management (SPF/DKIM/DMARC/MTA-STS) • Google Workspace Admin
 
 **Testing**  
 Jest • Supertest • Unit & Integration Testing
@@ -47,45 +47,45 @@ Leadership • Agile Delivery • Stakeholder Communication • Problem Solving 
 *2025 – Present | Remote*  
 Tech: Node.js, Restana, TypeScript, MySQL, Redis, Docker, GCP, Paystack, Piggyvest
 
-- Designed & built full backend for a nationwide vehicle hire, towing, and documentation platform
-- Implemented multi-service architecture with JWT + RBAC, Redis caching, and encrypted sessions
-- Automated CI/CD with GitHub Actions → Docker Buildx → GCE (90% faster releases)
-- Integrated payments, KYC, WhatsApp/SMS, Google Maps, and CRM workflows
-- Added centralized logging (Papertrail) and strict environment validation (40+ variables)
+- Designed and built full backend ecosystem for a nationwide vehicle hire, towing, and documentation platform
+- Implemented multi-service architecture with secure JWT + RBAC, Redis caching, and encrypted sessions
+- Automated CI/CD pipeline with GitHub Actions → Docker Buildx → Google Compute Engine (90% faster releases)
+- Integrated payments, KYC, WhatsApp/SMS notifications, Google Maps, and CRM workflows
+- Centralised logging (Papertrail) and robust env validation (40+ variables)
 
 **Lead Backend Developer** — AI4AI (SchoolHub Nigeria)  
 *2025 | Remote*  
 Tech: NestJS, PostgreSQL, Prisma, Redis, Docker, Railway, JWT, Swagger, Jest
 
-- Architected multi-tenant EdTech SaaS serving 50+ schools
-- Built tenant isolation, RBAC, audit logs, refresh-token rotation, and Redis caching
-- Reduced API response times ~25% through query optimization and throttling
-- Containerized deployment with automated migrations and health checks
+- Architected multi-tenant EdTech SaaS currently serving 50+ schools
+- Built tenant isolation, RBAC, audit trails, refresh token rotation, and Redis-powered caching
+- Optimised queries and implemented throttling — reducing response times by ~25%
+- Fully containerised deployment with automated migrations and health checks
 
 **Automotive Diagnostics & Trainer** — Auto Clinic  
 *2021 – 2024*
 
 - Diagnosed and repaired 25+ vehicles weekly
 - Trained 50+ teenagers in modern automotive diagnostics
-- Delivered weekly automotive tech radio segments on Splash FM
+- Delivered weekly automotive technology radio segments on Splash FM
 
 ---
 
 ### Featured Projects
 
-**Drivewell** — Vehicle Hire, Towing & Documentation Platform  
-Multi-microservice backend with wallets, dynamic pricing, payment processing, KYC, and CRM. Live on GCP with Docker + CI/CD.
+**Drivewell** — Full-Stack Vehicle Hire & Towing Platform  
+Multi-microservice backend with dynamic pricing, wallet system, towing dispatch, payment processing, KYC, and admin CRM. Deployed on GCP with Docker + CI/CD.
 
 **SchoolHub Nigeria** — Multi-Tenant EdTech SaaS  
-Secure NestJS backend with tenant provisioning, RBAC, audit logging, and Redis caching. Serving 50+ schools.
+Secure, scalable NestJS backend with tenant provisioning, RBAC, audit logging, email automation, and Redis caching. Live with 50+ schools.
 
 **Digital Wallet & Escrow System**  
-Production wallet with double-entry ledger, webhook verification, disputes, and multi-gateway support.
+Production-grade wallet with double-entry ledger, webhook verification, dispute resolution, and multi-gateway support (Paystack, Flutterwave).
 
-**JOTEM Agro Allied** — Corporate Website + Secure Email Setup  
-React + Vite + Tailwind site + full Google Workspace/DNS security configuration.
+**JOTEM Agro Allied** — Company Website + Email Infrastructure  
+React + Vite + Tailwind frontend + secure Google Workspace setup with full DNS security (SPF, DKIM, DMARC, MTA-STS).
 
-*(Public repos on GitHub – production repos available on request)*
+*(Public repositories available on GitHub – private production repos available on request)*
 
 ---
 
@@ -106,7 +106,7 @@ React + Vite + Tailwind site + full Google Workspace/DNS security configuration.
 - Assistant General Secretary — NCCF
 - Vice President — NIFES
 
-Mentored 50+ teenagers and led technical, educational, and sustainability initiatives.
+Mentored 50+ young people and led technical, educational, and sustainability initiatives.
 
 ---
 
@@ -114,7 +114,7 @@ Mentored 50+ teenagers and led technical, educational, and sustainability initia
 
 - Advanced distributed systems & domain-driven design
 - Cloud-native architectures (Kubernetes, serverless, GCP)
-- Automotive IoT, OBD-II pipelines, and telematics platforms
+- Automotive IoT, OBD-II data pipelines, and telematics platforms
 
 ---
 
@@ -122,8 +122,10 @@ Mentored 50+ teenagers and led technical, educational, and sustainability initia
 
 I’m actively seeking **Backend, Full-Stack, Cloud/DevOps, or Automotive Software Engineering** roles in the UK (remote, hybrid, or relocation-supported).
 
-ayobamieae@gmail.com  
+Feel free to reach out for opportunities, collaborations, or just a chat about scalable systems or cars!
+
+[ayobamieae@gmail.com](mailto:ayobamieae@gmail.com)  
 [linkedin.com/in/ayobami-ekundayo](https://www.linkedin.com/in/ayobami-ekundayo)  
 [portfolio-web-virid-gamma.vercel.app](https://portfolio-web-virid-gamma.vercel.app/)
 
-Looking forward to building the next big thing together!
+Looking forward to building impactful software together!
