@@ -1,8 +1,3 @@
-<!-- ======================= PROFILE BANNER ======================= -->
-<p align="center">
-  <img src="https://github.com/Ayooluwabami/banner.png" alt="Ayobami Esther Edun – Backend Engineer" width="100%" />
-</p>
-
 <h1 align="center">👋 Hi, I'm <strong>Ayobami Esther Edun</strong></h1>
 <p align="center">
   <strong>Backend Engineer | Node.js & TypeScript Specialist | Scalable Systems | Automotive Tech</strong><br/>
@@ -150,18 +145,6 @@ Website + Workspace setup • DNS (SPF/DKIM/DMARC/MTA-STS)
 
 ---
 
-# 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayooluwabami&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayooluwabami&layout=compact&theme=tokyonight" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ayooluwabami&theme=tokyonight" height="180" />
-</p>
-
----
 
 # 🔍 Currently Exploring  
 - Distributed systems (CQRS, event sourcing, DDD)  
