@@ -5,10 +5,20 @@
 </p>
 
 <p align="center">
-  📧 <a href="mailto:ayobamieae@gmail.com">ayobamieae@gmail.com</a> • 📞 +44 7867 027428<br/>
-  <a href="https://github.com/Ayooluwabami">GitHub</a> •
-  <a href="https://portfolio-web-virid-gamma.vercel.app/">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/ayobami-ekundayo">LinkedIn</a>
+  📧 <a href="mailto:ayobamieae@gmail.com">ayobamieae@gmail.com</a> • 📞 +44 7867 027428
+</p>
+
+<!-- ICON LINKS -->
+<p align="center">
+  <a href="https://github.com/Ayooluwabami" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://portfolio-web-virid-gamma.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ayobami-ekundayo" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
