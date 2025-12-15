@@ -13,10 +13,10 @@
   <a href="https://github.com/Ayooluwabami" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://portfolio-web-virid-gamma.vercel.app/" target="_blank">
+  <a href="https://portfolio-seven-blond-q0bowdvnvj.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/ayobami-ekundayo" target="_blank">
+  <a href="https://www.linkedin.com/in/ayobami-edun" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -166,6 +166,6 @@ Website + Workspace setup • DNS (SPF/DKIM/DMARC/MTA-STS)
 I’m actively seeking **Backend, Full-Stack, Cloud/DevOps, or Automotive Software Engineering** roles in the UK (remote, hybrid, or relocation-supported).
 
 📧 **ayobamieae@gmail.com**  
-🔗 **linkedin.com/in/ayobami-ekundayo**
+🔗 **linkedin.com/in/ayobami-edun**
 
 <p align="center"><strong>🚀 Building high-impact software that powers real-world systems.</strong></p>
