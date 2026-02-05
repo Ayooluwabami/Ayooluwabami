@@ -91,7 +91,7 @@ Passionate about **automotive technology**, combining software engineering with 
 
 # 🏢 Professional Experience  
 
-## 💼 Lead Backend Developer — Ebidhaa Services (Drivewell)  
+## 💼 Backend Developer — Ebidhaa Services (Drivewell)  
 *2025 – Present | Remote*  
 Tech: Node.js, Restana, MySQL, Redis, Docker, GitHub Actions, GCP  
 - Designed and built full backend ecosystem for nationwide vehicle hire/towing/document services  
@@ -102,7 +102,7 @@ Tech: Node.js, Restana, MySQL, Redis, Docker, GitHub Actions, GCP
 
 ---
 
-## 💼 Lead Backend Developer — AI4AI (SchoolHub Nigeria)  
+## 💼 Backend Developer — AI4AI (SchoolHub Nigeria)  
 *2025 | Remote*  
 Tech: NestJS, PostgreSQL, Prisma, Redis, Docker, Railway  
 - Architected multi-tenant EdTech SaaS serving 50+ schools  
