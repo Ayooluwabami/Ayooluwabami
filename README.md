@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  📧 <a href="mailto:ayobamieae@gmail.com">ayobamieae@gmail.com</a> &nbsp;•&nbsp; 📞 +44 7867 027428
+  📧 <a href="mailto:ayobamieae@gmail.com">ayobamieae@gmail.com</a>
 </p>
 
 <p align="center">
