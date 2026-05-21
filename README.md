@@ -1,14 +1,15 @@
 <h1 align="center">👋 Hi, I'm <strong>Ayobami Esther Edun</strong></h1>
+
 <p align="center">
-  <strong>Backend Engineer | Node.js & TypeScript Specialist | Scalable Systems | Automotive Tech</strong><br/>
+  <strong>Software Engineer (Backend-Focused) & Cloud/DevOps Engineer</strong><br/>
+  Node.js · TypeScript · AWS · Azure · GCP · Terraform · Jenkins · GitHub Actions · Kubernetes<br/>
   Dudley, West Midlands, United Kingdom
 </p>
 
 <p align="center">
-  📧 <a href="mailto:ayobamieae@gmail.com">ayobamieae@gmail.com</a> • 📞 +44 7867 027428
+  📧 <a href="mailto:ayobamieae@gmail.com">ayobamieae@gmail.com</a> &nbsp;•&nbsp; 📞 +44 7867 027428
 </p>
 
-<!-- ICON LINKS -->
 <p align="center">
   <a href="https://github.com/Ayooluwabami" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
@@ -19,153 +20,167 @@
   <a href="https://www.linkedin.com/in/ayobami-edun" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://medium.com/@ayobamieae" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-# 🛠️ Tech Stack & Tools
+## 🚀 About Me
 
-## 🧰 Languages & Frameworks  
+Backend-focused Software Engineer with 3+ years of production experience, now working across the full cloud and DevOps stack. I build things end-to-end — from NestJS microservices and payment systems through to Terraform-provisioned AWS infrastructure, Kubernetes deployments on EKS, and Jenkins CI/CD pipelines.
+
+Recent highlights:
+- 🏥 Built **CarePulse** — an NHS-aligned health platform with 8 NestJS microservices on EKS, NHS Login OIDC PKCE, Claude AI triage, real-time queue management via Redis sorted sets, and a full Jenkins → Helm production pipeline
+- 🛒 Built a **Serverless E-Commerce Pipeline** across 9 CloudFormation nested stacks: API Gateway → Lambda → SQS → ECS Fargate → S3 → SES, with DLQ, CloudWatch alarms, and SNS alerting
+- 🚗 Built **Owiwi** — a Nigerian service marketplace (NestJS, 27 modules, BullMQ, dual Paystack/KoraPay gateway with runtime switching, Vertex AI/Gemini integration)
+- ⚡ Reduced deployment time by **90%** through GitHub Actions + Docker Buildx CI/CD automation in production
+
+Currently pursuing **AWS Solutions Architect Associate (SAA-C03)**. Open to Cloud Engineer, DevOps Engineer, Platform Engineer, and Backend Engineer roles in the UK.
+
+---
+
+## 🛠️ Tech Stack
+
+### ☁️ Cloud & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/CloudFormation-FF4F00?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white" />
+</p>
+
+### ⚙️ CI/CD & DevOps
+<p>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bitbucket%20Pipelines-0052CC?logo=bitbucket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white" />
+</p>
+
+### 🧰 Languages & Frameworks
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Restana-0A1A2F?logo=fastify&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TailwindCSS-0EA5E9?logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black" />
 </p>
 
-## 🗄️ Databases  
+### 🗄️ Databases & Caching
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=white" />
 </p>
 
-## 🔐 Authentication & Security  
+### 🤖 AI Integrations
 <p>
-  <img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/OAuth2-3E7FC1?logo=auth0&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bcrypt-35495E?logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic%20Claude-6B46C1?logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Vertex%20AI-4285F4?logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20Rekognition-FF9900?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20Bedrock-FF9900?logo=amazonaws&logoColor=white" />
 </p>
 
-## 🚀 DevOps / Cloud  
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Railway-051922?logo=railway&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-000000?logo=render&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" />
-</p>
-
-## 📡 Integrations  
+### 💳 Payments & Integrations
 <p>
   <img src="https://img.shields.io/badge/Paystack-3BB75E?logo=paystack&logoColor=white" />
   <img src="https://img.shields.io/badge/Stripe-626CD9?logo=stripe&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutterwave-FFCC00?logo=flutterwave&logoColor=black" />
+  <img src="https://img.shields.io/badge/Twilio-F22F46?logo=twilio&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/MetaMap-0A66C2?logo=vercel&logoColor=white" />
 </p>
 
 ---
 
-# 🚀 Professional Summary  
-Results-oriented **Backend Engineer** with proven expertise delivering production-ready, scalable backend systems using **Node.js, TypeScript, NestJS, Restana**, and **microservices architecture**.
+## 🏗️ Featured Projects
 
-Experienced in:
+### 🏥 CarePulse — NHS-Aligned Community Health Platform
+Distributed microservices architecture (8 NestJS services, Redis TCP transport) with Next.js web and React Native mobile. Features AI-assisted triage via Claude API, real-time queue management via Redis sorted sets and Socket.io, NHS Login OIDC PKCE auth, TOTP 2FA, and post-consultation clinical summaries generated by Claude.
 
-✔️ Multi-tenant SaaS  
-✔️ High-performance APIs  
-✔️ Payment systems  
-✔️ Distributed systems  
-✔️ GCP deployments  
-✔️ Redis caching, queues & jobs  
+Deployed on **AWS EKS** with IRSA, zero-downtime RollingUpdate, Kubernetes pod security hardening, ElastiCache, CloudWatch with FluentBit DaemonSet, and a full **Jenkins CI/CD pipeline** (CFN validation → lint/tests → ECR build → Helm staging → smoke test → Helm production). Terraform + CloudFormation IaC throughout.
 
-Passionate about **automotive technology**, combining software engineering with real-world vehicle diagnostics experience.
+`NestJS` `EKS` `Kubernetes` `Helm` `Jenkins` `Redis` `PostgreSQL` `Claude API` `OIDC PKCE` `Terraform` `CloudFormation`
 
 ---
 
-# 🏢 Professional Experience  
+### 🛒 Serverless E-Commerce Order Pipeline — AWS
+Event-driven order processing pipeline across **9 CloudFormation nested stacks** (eu-west-2):
+`API Gateway → Python Lambda → SQS (DLQ) → ECS Fargate → S3 → Lambda → SES`
 
-## 💼 Backend Developer — Ebidhaa Services (Drivewell)  
-*2025 – Present | Remote*  
-Tech: Node.js, Restana, MySQL, Redis, Docker, GitHub Actions, GCP  
-- Designed and built full backend ecosystem for nationwide vehicle hire/towing/document services  
-- Implemented multi-service architecture (auth, pricing, towing, wallet, CRM APIs)  
-- Automated CI/CD → Docker Buildx → Google Compute Engine (**90% faster releases**)  
-- Integrated payments, KYC, WhatsApp, SMS, Maps, and CRM workflows  
-- Centralised logging & robust env validation (40+ variables)
+DynamoDB tracks 8 progressive order statuses. CloudWatch alarm on DLQ depth triggers SNS alert. Correlation ID system enables end-to-end trace in CloudWatch Logs Insights. 5 least-privilege IAM roles.
+
+`CloudFormation` `ECS Fargate` `SQS` `Lambda` `SES` `DynamoDB` `Python` `CloudWatch` `SNS` `IAM`
 
 ---
 
-## 💼 Backend Developer — AI4AI (SchoolHub Nigeria)  
-*2025 | Remote*  
-Tech: NestJS, PostgreSQL, Prisma, Redis, Docker, Railway  
-- Architected multi-tenant EdTech SaaS serving 50+ schools  
-- Implemented RBAC, audit trails, refresh token rotation  
-- Redis-powered caching and throttling → **25% faster API response times**  
-- Fully containerised with automated migrations + health checks  
+### 🔧 Owiwi — Nigerian Service Marketplace
+Full gig economy platform with 27 NestJS feature modules covering service discovery, bookings, wallets, transactions, social feeds, and geo-location. Dual payment gateway (Paystack + KoraPay) with runtime switching — no redeploy to change provider. BullMQ async consumers for bank transfers and multi-channel notifications. Google Vertex AI / Gemini integration. RS256 asymmetric JWT.
+
+`NestJS` `PostgreSQL` `Prisma` `Redis` `BullMQ` `Paystack` `KoraPay` `Vertex AI` `Docker` `Bitbucket Pipelines`
 
 ---
 
-## 🔧 Automotive Diagnostics & Trainer — Auto Clinic  
-*2021 – 2024*  
-- Diagnosed 25+ vehicles weekly  
-- Trained 50+ teenagers in modern automotive diagnostics  
-- Delivered weekly radio segments on automotive technology  
+### 🚗 DriveWell — Multi-Service Vehicle Platform
+Multi-service backend (vehicle hire, towing, documentation, licensing) serving admin dashboard, mobile API, and public web from a single environment-aware codebase. 90% deployment time reduction via GitHub Actions + Docker Buildx CI/CD on GCP. 10+ third-party integrations.
+
+`Node.js` `Restana` `TypeScript` `MySQL` `Redis` `GCP` `GitHub Actions` `Docker` `Paystack`
 
 ---
 
-# 🛠️ Featured Projects  
+### 🎓 SchoolHub Nigeria — Multi-Tenant SaaS
+Multi-tenant EdTech platform serving 50+ schools. JWT rotation, RBAC, argon2 hashing, Redis caching, connection pooling, automated migrations, and health checks.
 
-### 🚗 Drivewell – Vehicle Hire, Towing & Documentation Platform  
-Dynamic pricing • Wallet system • KYC • Dispatch engine • Admin CRM • Microservices • CI/CD on GCP  
-
-### 🎓 SchoolHub Nigeria – Multi-Tenant SaaS  
-Tenant provisioning • RBAC • Audit logging • Email automation • Redis caching  
-
-### 💳 Digital Wallet & Escrow System  
-Double-entry ledger • Webhook verification • Dispute workflow • Multi-gateway support  
-
-### 🌾 JOTEM Agro Allied  
-Website + Workspace setup • DNS (SPF/DKIM/DMARC/MTA-STS)  
+`NestJS` `PostgreSQL` `Prisma` `Redis` `Docker` `Railway` `RBAC`
 
 ---
 
-# 🎓 Certifications  
-- Cisco — Introduction to Cybersecurity (2025)  
-- Cisco & JS Institute — JavaScript Essentials (2024)  
-- AltSchool Africa — Backend Engineering Diploma (2024)  
-- Auto Clinic Academy — Automotive Technology (Distinction)  
-- NABTEB Modular Trade Certificate (Distinction)  
+### 👁️ Facial Recognition App — AWS Serverless
+Event-driven pipeline: S3 upload → Lambda → Amazon Rekognition → DynamoDB → React frontend via API Gateway.
+
+`Lambda` `Rekognition` `S3` `DynamoDB` `API Gateway` `React`
 
 ---
 
-# 👥 Leadership & Community  
-- Assistant Head (Technical & Media) — Global Harvest Teens Church  
-- Volunteer Researcher & Project Lead — REES Africa  
-- Assistant General Secretary — NCCF  
-- Vice President — NIFES  
-👉 Mentored **50+ young people** across technical & leadership programs  
+## 📝 Technical Writing
+
+I document everything I build — architecture decisions, troubleshooting, lessons learned.
+
+👉 [medium.com/@ayobamieae](https://medium.com/@ayobamieae)
+
+Recent write-ups cover Lightsail + EC2 hybrid VPC architecture, three-tier AWS deployments, Jenkins CI/CD pipelines, and CloudFormation nested stacks.
 
 ---
 
+## 🎓 Certifications & Education
 
-# 🔍 Currently Exploring  
-- Distributed systems (CQRS, event sourcing, DDD)  
-- Cloud-native architectures (Kubernetes, serverless, GCP)  
-- Automotive IoT, OBD-II pipelines, telematics platforms  
+| Certification | Status |
+|---|---|
+| Cloudboosta Academy — Cloud & Advanced DevOps (AWS, Azure, GitHub Actions, Jenkins, Terraform, Docker, Kubernetes) | 🔄 Ongoing — Feb 2026 |
+| Cisco Networking Academy — Introduction to Cybersecurity | ✅ 2025 |
+| AltSchool Africa — Diploma in Backend Engineering | ✅ 2024 |
+| Cisco & JS Institute — JavaScript Essentials | ✅ 2024 |
+| University of Ibadan — BA Religious Studies (Upper Second Class Honours) | ✅ 2019 |
 
 ---
 
-# 🤝 Let’s Connect!  
-I’m actively seeking **Backend, Full-Stack, Cloud/DevOps, or Automotive Software Engineering** roles in the UK (remote, hybrid, or relocation-supported).
+## 🤝 Open To
 
-📧 **ayobamieae@gmail.com**  
-🔗 **linkedin.com/in/ayobami-edun**
+Cloud Engineer · DevOps Engineer · Platform Engineer · Backend Engineer · Solutions Architect
 
-<p align="center"><strong>🚀 Building high-impact software that powers real-world systems.</strong></p>
+UK-based · Remote, Hybrid, or On-site · Skilled Worker Dependent Visa (no sponsorship required)
+
+📧 **ayobamieae@gmail.com** &nbsp;|&nbsp; 🔗 **[linkedin.com/in/ayobami-edun](https://linkedin.com/in/ayobami-edun)**
+
+<p align="center"><strong>Building infrastructure and systems that hold up under real load.</strong></p>
