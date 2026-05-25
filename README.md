@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm <strong>Ayobami Esther Edun</strong></h1>
+<h1 align="center">👋 Hi, I'm <strong>Ayobami Edun</strong></h1>
 
 <p align="center">
   <strong>Software Engineer (Backend-Focused) & Cloud/DevOps Engineer</strong><br/>
