@@ -6,9 +6,9 @@
   Dudley, West Midlands, United Kingdom
 </p>
 
-<p align="center">
+<!-- <p align="center">
   📧 <a href="mailto:ayobamieae@gmail.com">ayobamieae@gmail.com</a>
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://github.com/Ayooluwabami" target="_blank">
